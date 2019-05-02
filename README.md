@@ -1,4 +1,4 @@
-# TransformerXL German Wikipedia Language Model Test 
+# TransformerXL German Wikipedia Language Model 
 - vocabulary size = 60,000
 - trained on 100 million words collected from German Wikipedia (equivalent to 10% of all articles containing more than 1000 charactes)
 - perplexity of best validation loss: 18.9, **but**:
