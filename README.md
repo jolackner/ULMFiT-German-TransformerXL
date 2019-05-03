@@ -5,7 +5,7 @@
 - 6.5% OOV/Out Of Vocabulary in Train Set, 6.9% OOV in Valid Set seems a high percentage, making low valid loss & perplexity less meaningful
 - mem_len= 50 (reduced length, to shorten training time)
 
-- adapted from Christian Duguet's [Spanish ULMFiT Language Model][duguet]
+- adapted from Cristian Duguet's [Spanish ULMFiT Language Model][duguet]
 - using hyperparameters suggested by [Kaspar Lund][lund] 
 - trained with the great [fastai][linkfastai] library 
 
