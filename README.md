@@ -8,8 +8,10 @@
 - adapted from Cristian Duguet's [Spanish ULMFiT Language Model][duguet]
 - using hyperparameters suggested by [Kaspar Lund][lund] 
 - trained with the great [fastai][linkfastai] library 
+- Download [itos file][linkitos] and [weights][linkweights] of last epoch. 
 
-
+[linkitos]: <https://drive.google.com/file/d/14cp8dH8aOm97g_O474Cl-mvjAZJjtGa_/view?usp=sharing>
+[linkweights]: <https://drive.google.com/open?id=1eSwOWT-vkKyUuyYO1BU8M-ZoXXE81WJp>
 [linkfastai]: <http://docs.fast.ai>
 [lund]: <https://forums.fast.ai/t/training-transformerxl/40104>
 [duguet]: <https://github.com/cduguet/ulmfit-es/blob/master/ULMFit-TransfXL.ipynb>
